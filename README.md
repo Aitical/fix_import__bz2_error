@@ -45,3 +45,16 @@ python3 -c "import bz2; print(bz2.__doc__)"
 到这问题就已经解决了
 
 整个操作的过程很简单,由于要在集群的环境中更改一遍,我把过程整理在sh脚本中,脚本和so文件都在[github](https://github.com/Aitical/fix_import__bz2_error) 上,注意设置脚本中的用户密码和python路径就可以一键修复这个问题了
+
+
+
+参考链接:
+
+https://blog.csdn.net/heros_never_die/article/details/79942124
+
+https://www.cnblogs.com/emanlee/p/7325171.html
+
+https://stackoverflow.com/questions/12806122/missing-python-bz2-module
+
+
+

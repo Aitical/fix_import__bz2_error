@@ -26,7 +26,7 @@ StackOverFlow和部分博主推荐在自己编译安装bz2然后重新编译pyth
 
 于是我下载了so文件,放进去后执行,又有了另外一个问题
 
-![another_error](https://s1.ax1x.com/2018/08/27/PqBM3q.png)
+![another_error](https://s1.ax1x.com/2018/08/29/PXw03R.png)
 
 添加个链接就可以了
 
